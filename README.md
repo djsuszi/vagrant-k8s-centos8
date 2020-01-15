@@ -31,7 +31,7 @@ at the end of "module Driver" section
 
 Just clone repository in your Vagrant dedicated directory:
 ```
-git clone https://github.com/djsuszi/vagrant-with-centos8-and-kubernetes.git
+git clone https://github.com/djsuszi/vagrant-k8s-centos8.git
 ```
 
 Initialize vagrant Centos/8 file.
