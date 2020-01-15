@@ -135,10 +135,10 @@ You can fork and push some bugs if you want.
 
 ## Additional help
 
-[vagrant on Ubuntu](https://phoenixnap.com/kb/how-to-install-vagrant-on-ubuntu)
-[vagrant on Centos](https://phoenixnap.com/kb/how-to-install-vagrant-on-centos-7)
-[HA K8s](https://kubernetes.io/docs/tasks/administer-cluster/highly-available-master/)
-[Multi Master K8s](http://dockerlabs.collabnix.com/kubernetes/beginners/Install-and-configure-a-multi-master-Kubernetes-cluster-with-kubeadm.html)
+* [vagrant on Ubuntu](https://phoenixnap.com/kb/how-to-install-vagrant-on-ubuntu)
+* [vagrant on Centos](https://phoenixnap.com/kb/how-to-install-vagrant-on-centos-7)
+* [HA K8s](https://kubernetes.io/docs/tasks/administer-cluster/highly-available-master/)
+* [Multi Master K8s](http://dockerlabs.collabnix.com/kubernetes/beginners/Install-and-configure-a-multi-master-Kubernetes-cluster-with-kubeadm.html)
 
 
 ## TODO
